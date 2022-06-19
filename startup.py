@@ -1,3 +1,6 @@
+
+# start the bringup.sh
+./bringup.sh
 # start extrinsinc camera
 export AUTO_EX_CALIB=calibration
 roslaunch turtlebot3_autorace_camera turtlebot3_autorace_extrinsic_camera_calibration.launch
